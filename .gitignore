@@ -1,0 +1,14 @@
+.idea/
+*.rdb
+
+
+dist/*
+target/
+project/boot/
+project/plugins/project/
+.history
+.cache
+.lib/
+
+*.class
+*.log
