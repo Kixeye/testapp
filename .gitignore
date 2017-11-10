@@ -1,6 +1,6 @@
 .idea/
 *.rdb
-
+.DS_Store
 
 dist/*
 target/
