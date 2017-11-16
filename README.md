@@ -5,8 +5,8 @@ This application is provided as a dependency for the [DevOps challenge](../../ch
 ## Dependencies
 
 * Java Runtime Environment: `version 1.8.0_121`
-* Redis: `redis.local:6379`
-* Logging: local file system at `/var/log/kixeye/testapp.log`
+* Redis server available at: `redis.local:6379` (a working redis.conf file is included in ./resources)
+* Logging: local file system at `/var/log/testapp.log`
 
 ## Run
 
