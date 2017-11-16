@@ -1,7 +1,7 @@
 .idea/
 *.rdb
 .DS_Store
-
+.jar
 dist/*
 target/
 project/boot/
