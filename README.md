@@ -1,6 +1,6 @@
 # KIXEYE Test Application
 
-This application is provided as a dependency for the [DevOps challenge](../../challenges/deployment.md).
+This application is provided as a dependency for a DevOps interview challenge.
 
 ## Dependencies
 
@@ -10,5 +10,7 @@ This application is provided as a dependency for the [DevOps challenge](../../ch
 
 ## Run
 
-the following will run the application (replacing the path to the test jar with an actual path):
-`java -cp path/to/application/jar/testapp.jar kixeye.testapp.Main`
+1. extract the .jar file from `testapp.tar` 
+1. the following will run the application (replacing the path to the test jar with an actual path):
+ 
+`java -cp ./testapp.jar kixeye.testapp.Main`
